@@ -1,0 +1,5 @@
+Clone the project and unzip the folder.
+Opeb terminal and goto root directory of project.
+This is a redux project, you will need to install react-redux.
+Copy and paste this command in terminal: npm install --save react-redux.
+Start your react project.
